@@ -1,3 +1,3 @@
-Use python language
-Data visualization 
-Use list or array 
+Use python language.
+Data visualization .
+Use list or array .
